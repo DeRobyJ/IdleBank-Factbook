@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-[example link](./General.md)
+[General](./General.md)
+[Production](./Production_Levels_and_Gears.md)
 
 You can use the [editor on GitHub](https://github.com/DeRobyJ/IdleBank-Factbook/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 You can use the [editor on GitHub](./General.md) to maintain and preview the content for your website in Markdown files.
