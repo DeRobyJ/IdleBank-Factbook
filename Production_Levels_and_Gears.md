@@ -89,3 +89,25 @@ Level | Multiplier | Block Cost
 500 | 7.247 | 5
 1000 | 11.583 | 5
 10000 | 45.249 | 5
+
+
+### Gears
+
+Gearing up is paying a certain amount of levels to get a new gear badge, which in turns rewards the player with increased money production rates.
+
+```
+if player currently has no gears
+  Level Cost = 50
+else
+  Level Cost = 100 * Current Number of Gears
+
+
+Production Multiplier = Multiplication, for every faction, of ( 1 + 0.1 * Number of gears from that faction )
+
+```
+
+FED gears | ECB gears | PBC gears | total gears | Production Multiplier
+--- | --- | --- | --- | ---
+0 | 0 | 0 | 0 | 1
+1 | 0 | 0 | 1 | 1.1
+2 | 0 | 0 | 2 | 1.2
