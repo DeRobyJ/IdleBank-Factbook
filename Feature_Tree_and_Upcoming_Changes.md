@@ -3,7 +3,7 @@
 Current game version: 0.9.3
 
 ## MMO Incremental
-- Seven Faction to choose from
+- Seven Factions to choose from
   - Federal Reserve (FED), US$, mUSDmb, 💵
   - Central Bank of Brazil (CBB), R$, mBRmb, 🐊
   - European Central Bank (ECB), €, mEmb, 💶
@@ -17,15 +17,16 @@ Current game version: 0.9.3
 - Faction ranking and Leaderboard
   - Best 3 contributors shown for the top 3 factions
   - When a faction overtakes another, the market get flooded with blocks
+  - Username system
 - Block Market, with one section for each block type
   - Automatic money conversion using the top faction as base
-- Gear System, pay levels for a badge and various bonusses
-  - Can change to other factions
+- Gear System, pay levels for a badge and various bonuses
+  - When gearing up, you can move to other factions
   - African Central Bank is a special faction: you can only access it through gear up coming from another faction
 
 ## Minigames
 - Daily News
-  - Vote a country every day, if you're lucky you win money and blocks
+  - Vote a Country every day, if you're lucky you win money and blocks
   - The more players vote, the higher the prizes
 - Coinopoly
   - Throw a dice every hour to play a Monopoly-inspired global table-top with cryptocurrencies
@@ -40,7 +41,7 @@ Current game version: 0.9.3
   - Increase your strength or repair tools after every layer
   - Some layers give "protections", which can be accumulated
   - Start adventures using all your protections, easily going deeper in the mine
-  - Some layers give coal, that can be used in the Global Steel Road minigame
+  - Sometimes layers give coal, that can be used in the Global Steel Road minigame
 - Global Steel Road
   - All players go together around the world in a virtual train
   - Every important city offers some materials and exchange some others for goods
@@ -49,8 +50,8 @@ Current game version: 0.9.3
 - Investment Plan
   - Invest on one of five companies before the time runs out to get prize blocks
   - Outbid other players, making them lose their investment
-  - Re-invest in the company you chose to get even more blocks at the end
-  - Every round gives different types and numbers of blocks
+  - Re-invest in the company you chose to get even more blocks
+  - Every round gives different types and quantities of blocks
 
 ## Other
 - Event System
@@ -80,6 +81,7 @@ _______________________________________________________________________________
   - Screen with absolute data on money and blocks
 - Gear System [0.9.x]
   - Have an info screen for the next gear-up
+- Recurring events [sometime]
 
 
 ## Upcoming big Changes (vague to not spoil everything)
@@ -94,3 +96,5 @@ _______________________________________________________________________________
   - Storable amounts of blocks and money should reflect market usage instead of other game data
 - Ore Miner minigame [0.10]
   - Secret
+- Super future Secret [1.0]
+  - Didn't even design it completely but it must be there at some point
