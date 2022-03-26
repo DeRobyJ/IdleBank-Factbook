@@ -60,8 +60,11 @@ Current game version: 0.9.3
   - Italian (Complete) (By a mother tongue)
   - Portuguese (Only some parts) (By a Brazilian mother tongue)
 
+_______________________________________________________________________________
+_______________________________________________________________________________
+_______________________________________________________________________________
 
-# Upcoming small Changes
+## Upcoming small Changes
 - Coinopoly minigame [0.9.x]
   - Do not convert money when selling crypto (buff for lower factions)
   - Show number of owned houses (and maybe their position in the board)
@@ -79,7 +82,7 @@ Current game version: 0.9.3
   - Have an info screen for the next gear-up
 
 
-# Upcoming big Changes (vague to not spoil everything)
+## Upcoming big Changes (vague to not spoil everything)
 - Coinopoly minigame [0.9.x]
   - Ability to create more crypto
 - Daily News minigame [0.9.x]
