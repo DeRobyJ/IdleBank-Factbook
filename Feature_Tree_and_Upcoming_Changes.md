@@ -1,5 +1,7 @@
 # Feature Tree
 
+Current game version: 0.9.3
+
 ## MMO Incremental
 - Seven Faction to choose from
   - Federal Reserve (FED), US$, mUSDmb, 💵
@@ -20,16 +22,16 @@
 - Gear System, pay levels for a badge and various bonusses
 
 ## Minigames
-- Daily News minigame
+- Daily News
   - Vote a country every day, if you're lucky you win money and blocks
   - The more players vote, the higher the prizes
-- Coinopoly minigame
+- Coinopoly
   - Throw a dice every hour to play a Monopoly-inspired global table-top with cryptocurrencies
   - Either Buy or Sell currencies, with exponential gains
   - Storehouse cells give you blocks based on the different types of coin you currently have
   - Use crypto to buy houses on cells: when players land on them, you win blocks
   - Use money to buy houses in Storehouse cells, with prices and prizes dependent on the other Storehouses
-- Ore Miner minigame
+- Ore Miner
   - Dig layers of a mine using a Hammer and a Pick
   - Every layer can give ores, converted into money
   - Some layers can give blocks
@@ -37,7 +39,7 @@
   - Some layers give "protections", which can be accumulated
   - Start adventures using all your protections, easily going deeper in the mine
   - Some layers give coal, that can be used in the Global Steel Road minigame
-- Global Steel Road minigame
+- Global Steel Road
   - All players go together around the world in a virtual train
   - Every important city offers some materials and exchange some others for goods
   - Sell goods in the 7 capitals for money and blocks
@@ -58,32 +60,32 @@
 
 
 # Upcoming small Changes
-- Coinopoly minigame
+- Coinopoly minigame [0.9.x]
   - Do not convert money when selling crypto (buff for lower factions)
   - Show number of owned houses (and maybe their position in the board)
   - Have a list of cryptocurrencies and their status
   - Show prices of the options
   - Option to block notifications
-- Global Steel Road minigame
+- Global Steel Road minigame [0.9.x]
   - Have a list of materials and goods
   - Have a guide of production lines
-- Ore Miner minigame
+- Ore Miner minigame [0.9.x]
   - Info screen for all data about prizes (with probabilities)
-- Block Market
+- Block Market [0.9.x]
   - Screen with absolute data on money and blocks
-- Gear System
+- Gear System [0.9.x]
   - Have an info screen for the next gear-up
 
 
 # Upcoming big Changes (vague to not spoil everything)
-- Coinopoly minigame
+- Coinopoly minigame [0.9.x]
   - Ability to create more crypto
-- Daily News minigame
+- Daily News minigame [0.9.x]
   - Small vote prizes that relate to other features of IdleBank
-- Show numbers in a more readable way
-- Gear System
+- Show numbers in a more readable way [0.9.x]
+- Gear System [0.10]
   - Limit gearing up until user gets rid of excessive money
-- Market
+- Market [0.10]
   - Storable amounts of blocks and money should reflect market usage instead of other game data
-- Ore Miner
+- Ore Miner minigame [0.10]
   - Secret
