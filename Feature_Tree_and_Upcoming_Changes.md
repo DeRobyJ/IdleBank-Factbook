@@ -20,6 +20,8 @@ Current game version: 0.9.3
 - Block Market, with one section for each block type
   - Automatic money conversion using the top faction as base
 - Gear System, pay levels for a badge and various bonusses
+  - Can change to other factions
+  - African Central Bank is a special faction: you can only access it through gear up coming from another faction
 
 ## Minigames
 - Daily News
