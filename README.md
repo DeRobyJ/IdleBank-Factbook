@@ -2,6 +2,7 @@
 
 [General](./General.md)
 [Production](./Production_Levels_and_Gears.md)
+[FeatureTree](./PFeature_Tree_and_Upcoming_Changes.md)
 
 You can use the [editor on GitHub](https://github.com/DeRobyJ/IdleBank-Factbook/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 You can use the [editor on GitHub](./General.md) to maintain and preview the content for your website in Markdown files.
