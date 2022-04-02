@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.9.3
+Current game version: 0.9.4
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -67,10 +67,8 @@ _______________________________________________________________________________
 
 ## Upcoming small Changes
 - Coinopoly minigame [0.9.x]
-  - Do not convert money when selling crypto (buff for lower factions)
   - Show number of owned houses (and maybe their position in the board)
   - Have a list of cryptocurrencies and their status
-  - Show prices of the options
   - Option to block notifications
 - Global Steel Road minigame [0.9.x]
   - Have a list of materials and goods
