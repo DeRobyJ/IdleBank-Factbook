@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.9.4
+Current game version: 0.9.5
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -28,6 +28,7 @@ Current game version: 0.9.4
 - Daily News
   - Vote a Country every day, if you're lucky you win money and blocks
   - The more players vote, the higher the prizes
+  - You might also get extra prizes, if you're lucky, based on the Country you vote!
 - Coinopoly
   - Throw a dice every hour to play a Monopoly-inspired global table-top with cryptocurrencies
   - Either Buy or Sell currencies, with exponential gains
@@ -85,8 +86,6 @@ _______________________________________________________________________________
 ## Upcoming big Changes (vague to not spoil everything)
 - Coinopoly minigame [0.9.x]
   - Ability to create more crypto
-- Daily News minigame [0.9.x]
-  - Small vote prizes that relate to other features of IdleBank
 - Show numbers in a more readable way [0.9.x]
 - Gear System [0.10]
   - Limit gearing up until user gets rid of excessive money
