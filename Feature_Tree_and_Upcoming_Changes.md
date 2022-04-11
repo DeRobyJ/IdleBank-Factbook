@@ -68,7 +68,6 @@ _______________________________________________________________________________
 
 ## Upcoming small Changes
 - Coinopoly minigame [0.9.x]
-  - Show number of owned houses (and maybe their position in the board)
   - Have a list of cryptocurrencies and their status
   - Option to block notifications
 - Global Steel Road minigame [0.9.x]
