@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.9.5
+Current game version: 0.9.6
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -75,8 +75,6 @@ _______________________________________________________________________________
   - Have a guide of production lines
 - Ore Miner minigame [0.9.x]
   - Info screen for all data about prizes (with probabilities)
-- Block Market [0.9.x]
-  - Screen with absolute data on money and blocks
 - Gear System [0.9.x]
   - Have an info screen for the next gear-up
 - Recurring events [sometime]
