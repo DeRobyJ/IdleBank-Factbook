@@ -77,18 +77,17 @@ _______________________________________________________________________________
   - Info screen for all data about prizes (with probabilities)
 - Gear System [0.9.x]
   - Have an info screen for the next gear-up
-- Recurring events [sometime]
 
 
 ## Upcoming big Changes (vague to not spoil everything)
 - Coinopoly minigame [0.9.x]
   - Ability to create more crypto
-- Show numbers in a more readable way [0.9.x]
 - Gear System [0.10]
   - Limit gearing up until user gets rid of excessive money
 - Market [0.10]
   - Storable amounts of blocks and money should reflect market usage instead of other game data
-- Ore Miner minigame [0.10]
+- Ore Miner minigame [0.11]
   - Secret
 - Super future Secret [1.0]
   - Didn't even design it completely but it must be there at some point
+- Recurring events [sometime]
