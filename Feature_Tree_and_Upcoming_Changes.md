@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.9.6
+Current game version: 0.9.7
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -68,15 +68,11 @@ _______________________________________________________________________________
 
 ## Upcoming small Changes
 - Coinopoly minigame [0.9.x]
-  - Have a list of cryptocurrencies and their status
   - Option to block notifications
-- Global Steel Road minigame [0.9.x]
-  - Have a list of materials and goods
-  - Have a guide of production lines
-- Ore Miner minigame [0.9.x]
-  - Info screen for all data about prizes (with probabilities)
 - Gear System [0.9.x]
   - Have an info screen for the next gear-up
+- Ore Miner minigame [0.11]
+  - Info screen for all data about prizes (with probabilities)
 
 
 ## Upcoming big Changes (vague to not spoil everything)
