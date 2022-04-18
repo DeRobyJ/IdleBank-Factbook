@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.9.7
+Current game version: 0.9.8
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -18,6 +18,7 @@ Current game version: 0.9.7
   - Best 3 contributors shown for the top 3 factions
   - When a faction overtakes another, the market get flooded with blocks
   - Username system
+  - Some other stats are shown on a separate page
 - Block Market, with one section for each block type
   - Automatic money conversion using the top faction as base
 - Gear System, pay levels for a badge and various bonuses
