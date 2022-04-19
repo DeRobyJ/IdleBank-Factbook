@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.9.8
+Current game version: 0.9.9
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -77,8 +77,6 @@ _______________________________________________________________________________
 
 
 ## Upcoming big Changes (vague to not spoil everything)
-- Coinopoly minigame [0.9.x]
-  - Ability to create more crypto
 - Gear System [0.10]
   - Limit gearing up until user gets rid of excessive money
 - Market [0.10]
