@@ -32,7 +32,7 @@ Current game version: 0.9.9
   - You might also get extra prizes, if you're lucky, based on the Country you vote!
 - Coinopoly
   - Throw a dice every hour to play a Monopoly-inspired global table-top with cryptocurrencies
-  - Either Buy or Sell currencies, with exponential gains
+  - Either Mine, Buy or Sell currencies, with exponential gains
   - Storehouse cells give you blocks based on the different types of coin you currently have
   - Use crypto to buy houses on cells: when players land on them, you win blocks
   - Use money to buy houses in Storehouse cells, with prices and prizes dependent on the other Storehouses
