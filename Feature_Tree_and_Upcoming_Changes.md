@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.9.9
+Current game version: 0.9.10
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -68,9 +68,7 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 ## Upcoming small Changes
-- Coinopoly minigame [0.9.x]
-  - Option to block notifications
-- Gear System [0.9.x]
+- Gear System [0.10]
   - Have an info screen for the next gear-up
 - Ore Miner minigame [0.11]
   - Info screen for all data about prizes (with probabilities)
