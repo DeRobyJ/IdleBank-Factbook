@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.9.10
+Current game version: 0.10
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -68,17 +68,11 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 ## Upcoming small Changes
-- Gear System [0.10]
-  - Have an info screen for the next gear-up
 - Ore Miner minigame [0.11]
   - Info screen for all data about prizes (with probabilities)
 
 
 ## Upcoming big Changes (vague to not spoil everything)
-- Gear System [0.10]
-  - Limit gearing up until user gets rid of excessive money
-- Market [0.10]
-  - Storable amounts of blocks and money should reflect market usage instead of other game data
 - Ore Miner minigame [0.11]
   - Secret
 - Super future Secret [1.0]
