@@ -73,6 +73,8 @@ _______________________________________________________________________________
 
 
 ## Upcoming big Changes (vague to not spoil everything)
+- Investment Plan minigame [0.10.x]
+  - Completely redesigned
 - Ore Miner minigame [0.11]
   - Secret
 - Super future Secret [1.0]
