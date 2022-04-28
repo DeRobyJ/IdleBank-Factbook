@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.10
+Current game version: 0.10.1
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -73,8 +73,6 @@ _______________________________________________________________________________
 
 
 ## Upcoming big Changes (vague to not spoil everything)
-- Investment Plan minigame [0.10.x]
-  - Completely redesigned
 - Ore Miner minigame [0.11]
   - Secret
 - Super future Secret [1.0]
