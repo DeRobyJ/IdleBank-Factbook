@@ -50,10 +50,10 @@ Current game version: 0.10.1
   - Sell goods in the 7 capitals for money and blocks
   - Use coal from the Ore Miner minigame to make the train go fast (for everyone)
 - Investment Plan
-  - Invest on one of five companies before the time runs out to get prize blocks
-  - Outbid other players, making them lose their investment
-  - Re-invest in the company you chose to get even more blocks
-  - Every round gives different types and quantities of blocks
+  - Invest on one of twelve companies to get prize blocks
+  - Outbid other players, spending more money and gaining more blocks
+  - Collaborate with your faction to create lines as in tic-tac-toe
+  - At the end of the round, the market of your faction will get bonus blocks thanks to your investments
 
 ## Other
 - Event System
