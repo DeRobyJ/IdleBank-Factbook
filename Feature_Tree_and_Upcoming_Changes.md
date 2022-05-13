@@ -68,11 +68,15 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 ## Upcoming small Changes
+- Investment Plan [0.10.x]
+  - Lil secret
 - Ore Miner minigame [0.11]
   - Info screen for all data about prizes (with probabilities)
 
 
 ## Upcoming big Changes (vague to not spoil everything)
+- Global Steel Road minigame [0.10.x]
+  - An optional but intense secondary minigame that combines elements from the houses in Coinopoly and the old Investment Plan
 - Ore Miner minigame [0.11]
   - Secret
 - Super future Secret [1.0]
