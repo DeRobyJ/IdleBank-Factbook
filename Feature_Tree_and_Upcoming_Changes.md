@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.10.1
+Current game version: 0.10.2
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -54,6 +54,7 @@ Current game version: 0.10.1
   - Outbid other players, spending more money and gaining more blocks
   - Collaborate with your faction to create lines as in tic-tac-toe
   - At the end of the round, the market of your faction will get bonus blocks thanks to your investments
+  - 4 gameplay variations
 
 ## Other
 - Event System
