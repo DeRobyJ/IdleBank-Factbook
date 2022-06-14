@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.10.2
+Current game version: 0.10.3
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -46,8 +46,11 @@ Current game version: 0.10.2
   - Sometimes layers give coal, that can be used in the Global Steel Road minigame
 - Global Steel Road
   - All players go together around the world in a virtual train
-  - Every important city offers some materials and exchange some others for goods
-  - Sell goods in the 7 capitals for money and blocks
+  - The game is two-sided!
+    - GSR Market: every important city offers some materials and exchange some others for goods
+    - Sell goods in the 7 capitals for money and blocks
+    - GSR Factories: use blocks to build factories, so you and others can invest money in them, to get more blocks!
+    - One factory is special, the "S" factory. It also displays the current landowner for prestige
   - Use coal from the Ore Miner minigame to make the train go fast (for everyone)
 - Investment Plan
   - Invest on one of twelve companies to get prize blocks
@@ -69,15 +72,11 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 ## Upcoming small Changes
-- Investment Plan [0.10.x]
-  - Lil secret
 - Ore Miner minigame [0.11]
   - Info screen for all data about prizes (with probabilities)
 
 
 ## Upcoming big Changes (vague to not spoil everything)
-- Global Steel Road minigame [0.10.x]
-  - An optional but intense secondary minigame that combines elements from the houses in Coinopoly and the old Investment Plan
 - Ore Miner minigame [0.11]
   - Secret
 - Super future Secret [1.0]
