@@ -72,13 +72,17 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 ## Upcoming small Changes
-- Ore Miner minigame [0.11]
+- Investment Plan minigame [0.11]
+  - Two new modes besides Timed and Instant
+- Ore Miner minigame [sometime]
   - Info screen for all data about prizes (with probabilities)
 
 
 ## Upcoming big Changes (vague to not spoil everything)
-- Ore Miner minigame [0.11]
-  - Secret
+- Game balance [0.11]
+  - Base discounts throughout the game on current market storage sizes
+- Mystery item [0.11]
+  - You currently sometimes get it from Daily News, now it's going to get a use!
 - Super future Secret [1.0]
   - Didn't even design it completely but it must be there at some point
 - Recurring events [sometime]
