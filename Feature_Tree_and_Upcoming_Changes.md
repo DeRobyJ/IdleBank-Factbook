@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.10.3
+Current game version: 0.11.2
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -24,6 +24,8 @@ Current game version: 0.10.3
 - Gear System, pay levels for a badge and various bonuses
   - When gearing up, you can move to other factions
   - African Central Bank is a special faction: you can only access it through gear up coming from another faction
+- Free Loot Box system
+  - Certain actions give a loot box item, sometimes with a probability, that gives a random prize from a list of useful items, with a main Jackpot of extra loot boxes. It's used as a prize and an incetive to catch up to upper players
 
 ## Minigames
 - Daily News
@@ -72,17 +74,17 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 ## Upcoming small Changes
-- Investment Plan minigame [0.11]
+- Investment Plan minigame [0.11.x]
   - Two new modes besides Timed and Instant
+  - A new focus on making lines
+- Global Steel Road minigame [0.11.x]
+  - Balance to Factories
 - Ore Miner minigame [sometime]
   - Info screen for all data about prizes (with probabilities)
 
 
+
 ## Upcoming big Changes (vague to not spoil everything)
-- Game balance [0.11]
-  - Base discounts throughout the game on current market storage sizes
-- Mystery item [0.11]
-  - You currently sometimes get it from Daily News, now it's going to get a use!
-- Super future Secret [1.0]
-  - Didn't even design it completely but it must be there at some point
+- Faction-based game objective for players to strive for [1.0]
+- Hard to get prestige items, with high fixed prices [1.0]
 - Recurring events [sometime]
