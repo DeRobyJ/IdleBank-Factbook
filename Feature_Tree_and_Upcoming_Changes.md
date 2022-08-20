@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.11.2
+Current game version: 0.11.4
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -73,15 +73,11 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 _______________________________________________________________________________
 
-## Upcoming small Changes
-- Investment Plan minigame [0.11.x]
-  - Two new modes besides Timed and Instant
-  - A new focus on making lines
-- Global Steel Road minigame [0.11.x]
-  - Balance to Factories
+## Small Changes in consideration
 - Ore Miner minigame [sometime]
   - Info screen for all data about prizes (with probabilities)
-
+- Investment Plan minigame [sometime]
+  - Two new modes besides Timed and Instant
 
 
 ## Upcoming big Changes (vague to not spoil everything)
