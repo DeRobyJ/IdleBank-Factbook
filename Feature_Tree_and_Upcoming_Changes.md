@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 0.11.4
+Current game version: 1.0 part1
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -19,6 +19,9 @@ Current game version: 0.11.4
   - When a faction overtakes another, the market get flooded with blocks
   - Username system
   - Some other stats are shown on a separate page
+- Season ranking
+  - Rewards to the best players within the winning factions every season
+  - Game variations, to make each season unique
 - Block Market, with one section for each block type
   - Automatic money conversion using the top faction as base
 - Gear System, pay levels for a badge and various bonuses
@@ -81,6 +84,5 @@ _______________________________________________________________________________
 
 
 ## Upcoming big Changes (vague to not spoil everything)
-- Faction-based game objective for players to strive for [1.0]
 - Hard to get prestige items, with high fixed prices [1.0]
 - Recurring events [sometime]
