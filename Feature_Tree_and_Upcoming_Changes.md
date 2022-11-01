@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 1.0 part1
+Current game version: 1.0 part2
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -16,17 +16,17 @@ Current game version: 1.0 part1
 - Cumulative faction production
 - Faction ranking and Leaderboard
   - Best 3 contributors shown for the top 3 factions
-  - When a faction overtakes another, the market get flooded with blocks
-  - Username system
-  - Some other stats are shown on a separate page
+  - Username system, profile pages, game stats
 - Season ranking
   - Rewards to the best players within the winning factions every season
   - Game variations, to make each season unique
 - Block Market, with one section for each block type
   - Automatic money conversion using the top faction as base
+  - "Invisible hand" systems to stabilize the economy
 - Gear System, pay levels for a badge and various bonuses
   - When gearing up, you can move to other factions
   - African Central Bank is a special faction: you can only access it through gear up coming from another faction
+  - Super Gears, acquired every 100 gears
 - Free Loot Box system
   - Certain actions give a loot box item, sometimes with a probability, that gives a random prize from a list of useful items, with a main Jackpot of extra loot boxes. It's used as a prize and an incetive to catch up to upper players
 
@@ -60,11 +60,13 @@ Current game version: 1.0 part1
 - Investment Plan
   - Invest on one of twelve companies to get prize blocks
   - Outbid other players, spending more money and gaining more blocks
-  - Collaborate with your faction to create lines as in tic-tac-toe
+  - Collaborate with your faction to create lines as in tic-tac-toe and get bonus blocks
   - At the end of the round, the market of your faction will get bonus blocks thanks to your investments
   - 4 gameplay variations
 
 ## Other
+- Monthly Variations on Minigames
+  - Every month, minigame rules are changed automatically
 - Event System
   - The game sometimes has events
 - Play in your favourite language
@@ -81,8 +83,12 @@ _______________________________________________________________________________
   - Info screen for all data about prizes (with probabilities)
 - Investment Plan minigame [sometime]
   - Two new modes besides Timed and Instant
+- Round systems for the Season Challenge
 
 
-## Upcoming big Changes (vague to not spoil everything)
-- Hard to get prestige items, with high fixed prices [1.0]
-- Recurring events [sometime]
+## Designed features that didn't make it, but might come one day
+- Recurring events for gifts between players
+- Street Market to acquire items to use in minigames or for prestige
+- Auto-Market buttons, to automate some clicks
+- Ore Miner Update, with secret mines
+- The Fact-book, a list of all features and rules
