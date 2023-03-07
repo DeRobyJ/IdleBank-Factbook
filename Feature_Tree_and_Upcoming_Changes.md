@@ -86,6 +86,13 @@ _______________________________________________________________________________
 - Round systems for the Season Challenge
 
 
+## Big Changes in consideration
+- Flea Market [1.1]
+    - Exchange items for a small fee
+    - 3 different sections changing at different rates, for gameplay variation
+- Friend/Affiliation system [sometime]
+    - Add other players to collaborate
+
 ## Designed features that didn't make it, but might come one day
 - Recurring events for gifts between players
 - Street Market to acquire items to use in minigames or for prestige
