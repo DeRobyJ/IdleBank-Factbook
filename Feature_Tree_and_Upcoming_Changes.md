@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 1.0 part2
+Current game version: 1.1
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -29,6 +29,9 @@ Current game version: 1.0 part2
   - Super Gears, acquired every 100 gears
 - Free Loot Box system
   - Certain actions give a loot box item, sometimes with a probability, that gives a random prize from a list of useful items, with a main Jackpot of extra loot boxes. It's used as a prize and an incetive to catch up to upper players
+- Flea Market
+  - Exchange items for a small fee
+  - 3 different sections changing at different rates, for gameplay variation
 
 ## Minigames
 - Daily News
@@ -87,9 +90,6 @@ _______________________________________________________________________________
 
 
 ## Big Changes in consideration
-- Flea Market [1.1]
-    - Exchange items for a small fee
-    - 3 different sections changing at different rates, for gameplay variation
 - Friend/Affiliation system [sometime]
     - Add other players to collaborate
 
