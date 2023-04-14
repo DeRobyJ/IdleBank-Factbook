@@ -22,7 +22,7 @@ Current game version: 1.2
   - Game variations, to make each season unique
 - Block Market, with one section for each block type
   - Automatic money conversion using the top faction as base
-  - "Invisible hand" systems to stabilize the economy and syncing it to active players
+  - "Invisible hand" systems to stabilize the economy and sync it to active players
 - Gear System, pay levels for a badge and various bonuses
   - When gearing up, you can move to other factions
   - African Central Bank is a special faction: you can only access it through gear up coming from another faction
