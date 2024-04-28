@@ -1,6 +1,6 @@
 # Feature Tree
 
-Current game version: 1.2
+Current game version: 1.6
 
 ## MMO Incremental
 - Seven Factions to choose from
@@ -38,6 +38,7 @@ Current game version: 1.2
   - Vote a Country every day, if you're lucky you win money and blocks
   - The more players vote, the higher the prizes
   - You might also get extra prizes, if you're lucky, based on the Country you vote!
+  - Form an agency between 2 or 3 players to share prizes and Mysterious Items
 - Coinopoly
   - Throw a dice every hour to play a Monopoly-inspired global table-top with cryptocurrencies
   - Either Mine, Buy or Sell currencies, with exponential gains
@@ -66,6 +67,11 @@ Current game version: 1.2
   - Collaborate with your faction to create lines as in tic-tac-toe and get bonus blocks
   - At the end of the round, the market of your faction will get bonus blocks thanks to your investments
   - 4 gameplay variations
+- Shop Chain
+  - Open shops and pay wages to your workers up to once every 4 hours
+  - Collaborate with your faction to give similar salaries, receiving blocks every time
+  - The more often you pay employees, the more will come to work, increasing production
+  - Pay more to increase your inflation, affecting the other minigames
 
 ## Other
 - Monthly Variations on Minigames
@@ -86,16 +92,8 @@ _______________________________________________________________________________
   - Info screen for all data about prizes (with probabilities)
 - Investment Plan minigame [sometime]
   - Two new modes besides Timed and Instant
-- Round systems for the Season Challenge
-
-
-## Big Changes in consideration
-- Friend/Affiliation system [sometime]
-    - Add other players to collaborate
 
 ## Designed features that didn't make it, but might come one day
 - Recurring events for gifts between players
-- Street Market to acquire items to use in minigames or for prestige
 - Auto-Market buttons, to automate some clicks
 - Ore Miner Update, with secret mines
-- The Fact-book, a list of all features and rules
