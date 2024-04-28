@@ -78,6 +78,9 @@ Current game version: 1.6
   - Every month, minigame rules are changed automatically
 - Event System
   - The game sometimes has events
+- Valve System for veterans
+  - Close valves to temporarily reduce your production level by billions
+  - The value of a valve depends on the faction position in the production leaderboard
 - Play in your favourite language
   - English (Complete) (By a non-native)
   - Italian (Complete) (By a mother tongue)
