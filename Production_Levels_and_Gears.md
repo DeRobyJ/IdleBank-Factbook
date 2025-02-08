@@ -1,3 +1,5 @@
+# !outdated!
+
 ## Production, Levels and Gears
 
 The incremental part of the game is to use money you produce naturally to upgrade the production rate itself.
