@@ -65,8 +65,10 @@ For a detailed analysis:
 140 / 50 = 2.8
 
 So with 3 hits you might or might not finish the layer, but that is irrelevant.
-The correct strategy to get the ores is to give 2 hammer hits and finish up the layer with the pick.
-Each hammer hit deals roughly the same as two pickaxe hits, so we are expecting 2 hammer hits and 2 or 3 pickaxe hits
+The correct strategy to get the ores is to give 2 hammer hits and finish up the
+ layer with the pick.
+Each hammer hit deals roughly the same as two pickaxe hits, so we are expecting
+ 2 hammer hits and 2 or 3 pickaxe hits.
 ```
 
 So we actually really need __2__ hits. This number, 2, will not change quickly. Each new layer will have 10 more HP (sometimes more, but generally 10). With a yield of 45-50 HP per hit, the number of hits needed will only increase after 5 layers. Which is plenty to upgrade.
@@ -101,16 +103,20 @@ So what can you control? The hammer strength and precision!
 
 ```
 Let's make a new example. The layer has 70 HP.
-Imagine your hammer can deal maximum 12 hits before breaking, and its current yield is 10-20.
+Imagine your hammer can deal maximum 12 hits before breaking,
+ and its current yield is 10-20.
 
 70 / 10 = 7
 70 / 20 = 3.5
 
 The pick is going to deal a damage of 7
-Since it is very unlikely that the hammer will deal just 10 damage for 6 hits in a row, we can assume that you will need less than 6 hits with your hammer, and you will finish the work with the pick.
+Since it is very unlikely that the hammer will deal just 10 damage for 6 hits
+ in a row, we can assume that you will need less than 6 hits with your hammer,
+  and you will finish the work with the pick.
 
-Since your hammer can deal 12 hits before breaking, you should be able to break two layers in a row.
-So you have 1 opportunity to upgrade or repair the pick between those two layers!
+Since your hammer can deal 12 hits before breaking, you should be able to break
+ two layers in a row. So you have 1 opportunity to upgrade or repair the pick
+ between those two layers!
 ```
 
 From the above example you might have guessed how important it is to upgrade the precision of the hammer. It basically allows you to better predict your chances of surviving two layers in a row without repairing the hammer between them.
@@ -145,24 +151,28 @@ And you currently have: hammer yield 15-20, pick yield 7
 The game shows: "Damage: 60/(90-100)"
 
 Note how with two hammer hits you are sure to break the layer safely!
-You can also do one hammer hit and two pick hits, and you are almost sure to break it safely
-(if the hammer deals the minimum of its range, you get 60 + 15 + 7 + 7 = 89/(90-100))
+You can also do one hammer hit and two pick hits, and you are almost sure to
+ break it safely
+(if the hammer deals the minimum of its range, you get 60+15+7+7 = 89/(90-100))
 
 Another case: "Damage 70/(90-100)"
 hammer yield 15-20, pick yield 7
 
-Here if you do one hammer hit, you have 1/6 chance to break the layer without collecting the ores.
+Here if you do one hammer hit, you have 1/6 chance to break the layer without
+ collecting the ores.
 Otherwise you'd get to 85-89 HP.
 If you get to 85 HP, another hammer hit has 5/6 chance to go over the boundary!
 
-Thus, it seems like the safest option here is to do 3 pick hits, dealing 21 damage, reaching 91/(90-100), safely collecting ores.
+Thus, it seems like the safest option here is to do 3 pick hits, dealing 21
+ damage, reaching 91/(90-100), safely collecting ores.
 
 Last case:
 Another case: "Damage 65/(90-100)"
 hammer yield 20-30, pick yield 12
 
 This is a dangerous situation!
-When in danger you might be inclined to use the pick, but here it would be a tragic mistake:
+When in danger you might be inclined to use the pick, but here it would be a
+ tragic mistake:
 - pick -> 77/(90-100)
 - pick -> 89/(90-100)
 - pick -> 101/(90-100)
@@ -171,7 +181,8 @@ or
 - pick -> 77/(90-100)
 - hammer -> 4/11 of being safe, 97 to 100, 7/11 of losing, 101 to 107
 
-If instead we start with our imprecise hammer, and we get in one of 3 different situation:
+If instead we start with our imprecise hammer, and we get in one of 3 different
+ situations:
 -> 4/11 of landing on 85-88, -> pick, win with ores
 -> 1/11 of landing on 89, -> you lose whatever you do
 -> 6/11 of landing on 90-95 -> you win the layer, but you don't get the ores
